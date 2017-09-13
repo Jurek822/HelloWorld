@@ -1,5 +1,7 @@
 #include <iostream>
 
+#include <math.h>
+
 int main() {
 	int x;
 	std::cout << "Hello World!\n";
